@@ -1,2 +1,3 @@
 # newproject
-This Om Thakur Repository.
+This is testing Repository.
+Author -  Om Thakur
